@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Curtis Home.
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
