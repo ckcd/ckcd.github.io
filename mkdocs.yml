@@ -3,6 +3,6 @@ site_name: Curtis
 theme:
   name: material
   font:
-    code: Ubuntu Mono
+    code: Noto Sans Mono
   logo: images/logo.png
   favicon: images/favicon.png
