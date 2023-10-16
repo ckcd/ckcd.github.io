@@ -4,3 +4,4 @@ theme:
   name: material
   font:
     code: Ubuntu Mono
+  logo: images/logo.png
