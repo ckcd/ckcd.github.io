@@ -2,3 +2,5 @@ site_name: Curtis
 
 theme:
   name: material
+  font:
+    code: Ubuntu Mono
