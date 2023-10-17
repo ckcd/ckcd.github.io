@@ -42,9 +42,9 @@ extra:
     - icon: fontawesome/brands/weibo 
       link: https://weibo.com/CnisXi
       name: Weibo
-  analytics: 
+  analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-1J09NCGYGJ
     feedback:
       title: Was this page helpful?
       ratings:
