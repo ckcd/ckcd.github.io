@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Monaco';
+    src: local('Monaco'), url('Monaco.woff') format('woff');
+}
+
+:root {
+    --md-code-font: "Monaco";
+}
